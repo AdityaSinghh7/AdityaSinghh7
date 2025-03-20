@@ -56,3 +56,11 @@ A **NestJS & Angular** powered chat application supporting **150+ concurrent use
 I'm actively exploring **opportunities in distributed systems, AI/ML, and computational finance**. My goal is to work on **scalable architectures, intelligent automation, or financial modeling**.
 
 📬 Feel free to **connect with me on [LinkedIn](https://www.linkedin.com/in/adityasingh0711/)** or check out my **[portfolio](https://adityadsingh.com/)!**
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaSinghh7&show_icons=true&locale=en&layout=compact" alt="AdityaSinghh7" height=150 
+
+<p>&nbsp;<img align="left" height=160 width=330 src="https://github-readme-stats.vercel.app/api?username=AdityaSinghh7&show_icons=true&locale=en" alt="AdityaSinghh7" 
+
+<p><img align="left" height=160 width=330 src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSinghh7&" alt="AdityaSinghh7" /></p>
