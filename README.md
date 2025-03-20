@@ -12,7 +12,8 @@ I'm a Computer Science student at **UC Irvine**, focusing on **distributed syste
 ## 💻 What I'm Working On
 - **LLM-powered Changelog Generator** 📜 → Automating commit history summarization using GPT models.
 - **Face Recognition for Attendance Logging** 📷 → Leveraging OpenCV and Caffe-based models for real-time face detection.
-- **Exploring Quant Finance & Blockchain** 💰 → Developing projects in **algorithmic trading, crypto arbitrage, and smart contracts**.
+- **Canvas Chatbot for Course Queries** 🎓 → A RAG-based generative chatbot that retrieves and summarizes course data from the **Canvas Instructure API**.
+- **Exploring Quant Finance & Blockchain** 💰
 
 ---
 
