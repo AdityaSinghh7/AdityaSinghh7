@@ -59,8 +59,8 @@ I'm actively exploring **opportunities in distributed systems, AI/ML, and comput
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaSinghh7&show_icons=true&locale=en&layout=compact" alt="AdityaSinghh7" height=150 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaSinghh7&hide=html,ipynb&show_icons=true&locale=en&layout=donut" alt="AdityaSinghh7" height=150 
 
-<p>&nbsp;<img align="left" height=160 width=330 src="https://github-readme-stats.vercel.app/api?username=AdityaSinghh7&show_icons=true&locale=en" alt="AdityaSinghh7" 
+<p>&nbsp;<img align="left" height=160 width=330 src="https://github-readme-stats.vercel.app/api?username=AdityaSinghh7&show_icons=true&locale=en&hide=stars,pr&theme=tokyonight&rank_icon=github" alt="AdityaSinghh7" 
 
 <p><img align="left" height=160 width=330 src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSinghh7&" alt="AdityaSinghh7" /></p>
