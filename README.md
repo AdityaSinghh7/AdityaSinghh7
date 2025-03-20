@@ -4,7 +4,7 @@
 🔹 **Software Engineer | Distributed Systems & Cloud | ML/AI Enthusiast**  
 🔹 **Building scalable systems and optimizing performance**  
 
-I'm a Computer Science student at **UC Irvine**, focusing on **distributed systems, cloud computing, and backend engineering**. I enjoy designing **efficient, scalable architectures** and improving system reliability. Recently, I’ve been exploring **ML/AI applications** in automation and infrastructure.  
+I'm a Computer Science senior at **UC Irvine**, focusing on **distributed systems, cloud computing, and backend engineering**. I enjoy designing **efficient, scalable architectures** and improving system reliability. Recently, I’ve been exploring **ML/AI applications** in automation and infrastructure.  
 
 
 ---
@@ -52,7 +52,7 @@ A **NestJS & Angular** powered chat application supporting **150+ concurrent use
 
 ---
 
-## 🎯 Where I'm Headed
-I'm actively exploring **opportunities in distributed systems, AI/ML, and computational finance**. My goal is to work on **scalable architectures, intelligent automation, and financial modeling**.
+## 🎯 Where I'm Headed - Graduating by June 2025
+I'm actively exploring **opportunities in distributed systems, AI/ML, and computational finance**. My goal is to work on **scalable architectures, intelligent automation, or financial modeling**.
 
-📬 Feel free to **connect with me on [LinkedIn](https://www.linkedin.com/in/adityadsingh/)** or check out my **[portfolio](https://adityadsingh.com/)!**
+📬 Feel free to **connect with me on [LinkedIn](https://www.linkedin.com/in/adityasingh0711/)** or check out my **[portfolio](https://adityadsingh.com/)!**
