@@ -32,15 +32,41 @@ Backend caching simulator to optimize **content delivery, request prioritization
 
 > **Tech Stack:** Python, In-Memory Storage, Freshness Counts, Data Analytics
 
-### **Stock Analysis Application 📈**
-A **C-based client-server application** for **real-time stock data tracking and profit analysis**.
-
-> **Tech Stack:** C, TCP Sockets, CSV Parsing
 
 ### **Fullstack Realtime Chat App 💬**
 A **NestJS & Angular** powered chat application supporting **150+ concurrent users with JWT authentication**.
 
 > **Tech Stack:** NestJS, Angular, Socket.io, Docker, Postman
+
+
+---
+
+## 💼 Work Experience
+### 🚀 Software Engineer | CubeSat @ UC Irvine  
+📅 **Apr 2023 - Sep 2023**  
+🔹 Developed **software systems** that improved system efficiency by **20%**.  
+🔹 Standardized **UML-based project requirements**, streamlining collaboration across multiple universities.  
+🔹 Applied **agile methodologies**, reducing project delays by **20%**.  
+
+### 🔥 Software Engineer Intern | Corover  
+📅 **Jun 2024 - Sep 2024**  
+🔹 Enhanced the **eSevak chatbot** with **Redis caching**, improving performance for **10M+ users**.  
+🔹 Led migration of **10+ services** from Linode to **Google Cloud Platform**, leveraging PM2 and Git for deployment.  
+🔹 Conducted **end-to-end testing** for **University Living’s chatbot**, refining both backend and UI/UX performance.  
+
+### 🎥 Sports Broadcast Crew | University of California, Irvine  
+📅 **Jun 2023 - Mar 2025**  
+🔹 Managed **production of 20+ live sports events**, improving **viewer satisfaction by 15%**.  
+🔹 **Collaborated with ESPN+** to integrate advanced broadcasting technologies, enhancing stream quality.  
+🔹 Led **pre-production planning and real-time camera adjustments** for optimal event coverage.  
+
+### 👨‍🏫 Undergraduate Teaching Assistant | UCI  
+📅 **Jan 2025 - Mar 2025**  
+🔹 Evaluated **150+ student projects** for **CS122B**, ensuring academic standards and providing feedback.  
+🔹 Assisted students as a **learning assistant in ICS32**, mentoring them in software development best practices.  
+
+### 🌍 Full-Stack Developer | Boundary Remote Sensing Systems  
+📅 **Mar 2025 - Present**  
 
 ---
 
