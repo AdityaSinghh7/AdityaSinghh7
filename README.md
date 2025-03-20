@@ -1,6 +1,5 @@
-# Hi there! 👋
+# 👋 Hi, I'm Aditya Singh!  
 
-## I'm Aditya Singh
 🔹 **Software Engineer | Distributed Systems & Cloud | ML/AI Enthusiast**  
 🔹 **Building scalable systems and optimizing performance**  
 
