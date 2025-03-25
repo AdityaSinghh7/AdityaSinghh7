@@ -9,7 +9,6 @@ I'm a Computer Science senior at **UC Irvine**, focusing on **distributed system
 ---
 
 ## 💻 What I'm Working On
-- **LLM-powered Changelog Generator** 📜 → Automating commit history summarization using GPT models.
 - **Face Recognition for Attendance Logging** 📷 → Leveraging OpenCV and Caffe-based models for real-time face detection.
 - **Canvas Chatbot for Course Queries** 🎓 → A RAG-based generative chatbot that retrieves and summarizes course data from the **Canvas Instructure API**.
 - **Exploring Computational Finance & Blockchain** 💰
@@ -17,6 +16,12 @@ I'm a Computer Science senior at **UC Irvine**, focusing on **distributed system
 ---
 
 ## 🔥 Notable Projects
+
+### **LLM-Powered Changelog Generator 📜**
+A full-stack AI tool that **automates GitHub commit summaries**, using **OpenAI, embeddings, and prompt engineering** to boost developer workflow speed by 2–3x.
+
+> **Tech Stack:** Next.js, React, OpenAI API, GitHub OAuth2, REST APIs, Caching, Semantic Embeddings
+
 ### **FabFlix 🎬**
 A full-stack movie database application featuring **RESTful APIs, MySQL replication, Kubernetes deployment, and AWS hosting**.
 
