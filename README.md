@@ -17,6 +17,11 @@ I'm a Computer Science senior at **UC Irvine**, focusing on **distributed system
 
 ## 🔥 Notable Projects
 
+### **AI Resume Tailor 📄**
+A full-stack AI platform that **automates resume project tailoring**, using **OpenAI (Embeddings, GPT-4o), pgvector, and TreeSitter** for RAG-powered, job-specific content generation.
+
+> **Tech Stack:** Next.js, React, FastAPI, Python, PostgreSQL, pgvector, OpenAI API, TreeSitter, GitHub OAuth
+
 ### **LLM-Powered Changelog Generator 📜**
 A full-stack AI tool that **automates GitHub commit summaries**, using **OpenAI, embeddings, and prompt engineering** to boost developer workflow speed by 2–3x.
 
