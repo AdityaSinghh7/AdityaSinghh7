@@ -84,7 +84,7 @@ A RAG-based platform that tailors resume project descriptions to job description
 - Worked with React, FastAPI, AWS, CesiumJS, and Three.js
 
 ### **Teaching Assistant — UC Irvine**  
-**Jan 2025 - Present**
+**Jan 2025 - June 2025**
 
 - Mentored students in core CS and full-stack coursework
 - Evaluated large project-based assignments and supported labs / office hours
