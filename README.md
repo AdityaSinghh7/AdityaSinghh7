@@ -1,101 +1,139 @@
-# 👋 Hi, I'm Aditya Singh!  
+# Hi, I'm Aditya Singh
 
-🔹 **Software Engineer | Distributed Systems & Cloud | ML/AI Enthusiast**  
-🔹 **Building scalable systems and optimizing performance**  
+**AI Engineer / Co-Founder @ TakeBridge**  
+Building hybrid AI agents that can use software through computer actions or APIs/MCP, depending on the task.
 
-I'm a Computer Science senior at **UC Irvine**, focusing on **distributed systems, cloud computing, and backend engineering**. I enjoy designing **efficient, scalable architectures** and improving system reliability. Recently, I’ve been exploring **ML/AI applications** in automation and infrastructure.  
-
-
----
-
-## 💻 What I'm Working On
-- **Face Recognition for Attendance Logging** 📷 → Leveraging OpenCV and Caffe-based models for real-time face detection.
-- **Canvas Chatbot for Course Queries** 🎓 → A RAG-based generative chatbot that retrieves and summarizes course data from the **Canvas Instructure API**.
-- **Exploring Computational Finance & Blockchain** 💰
+I recently graduated from **UC Irvine (CS)** and am now building **TakeBridge** in San Francisco. My work is focused on **computer-use agents, multi-agent orchestration, model serving, and cost-efficient infrastructure** for real-world operations automation.
 
 ---
 
-## 🔥 Notable Projects
+## What I'm Working On
 
-### **AI Resume Tailor 📄**
-A full-stack AI platform that **automates resume project tailoring**, using **OpenAI (Embeddings, GPT-4o), pgvector, and TreeSitter** for RAG-powered, job-specific content generation.
-
-> **Tech Stack:** Next.js, React, FastAPI, Python, PostgreSQL, pgvector, OpenAI API, TreeSitter, GitHub OAuth
-
-### **LLM-Powered Changelog Generator 📜**
-A full-stack AI tool that **automates GitHub commit summaries**, using **OpenAI, embeddings, and prompt engineering** to boost developer workflow speed by 2–3x.
-
-> **Tech Stack:** Next.js, React, OpenAI API, GitHub OAuth2, REST APIs, Caching, Semantic Embeddings
-
-### **FabFlix 🎬**
-A full-stack movie database application featuring **RESTful APIs, MySQL replication, Kubernetes deployment, and AWS hosting**.
-
-> **Tech Stack:** Java Servlets, MySQL, AWS EC2, Docker, Kubernetes, Nginx, jQuery
-
-### **Webscraping Search Engine 🔍**
-A **custom search engine** utilizing **TF-IDF, NLP-based tokenization, and GPT-3** for intelligent search summaries.
-
-> **Tech Stack:** Python, Flask, BeautifulSoup, OpenAI API
-
-### **CDN Simulator ⚡**
-Backend caching simulator to optimize **content delivery, request prioritization, and cache hit rates**.
-
-> **Tech Stack:** Python, In-Memory Storage, Freshness Counts, Data Analytics
-
-
-### **Fullstack Realtime Chat App 💬**
-A **NestJS & Angular** powered chat application supporting **150+ concurrent users with JWT authentication**.
-
-> **Tech Stack:** NestJS, Angular, Socket.io, Docker, Postman
-
+- Building **TakeBridge** — a hybrid agent platform for operations workflows
+- Designing **computer-use agents** that can click, type, scroll, and operate software from visual input
+- Building **MCP-based multi-agent systems** that let agents use tools across Gmail, Slack, Shopify, Stripe, HubSpot, and more
+- Optimizing **VM infrastructure, cold starts, model serving, and agent memory** for production use
 
 ---
 
-## 💼 Work Experience
-### 🚀 Software Engineer | CubeSat @ UC Irvine  
-📅 **Apr 2023 - Sep 2023**  
-🔹 Developed **software systems** that improved system efficiency by **20%**.  
-🔹 Standardized **UML-based project requirements**, streamlining collaboration across multiple universities.  
-🔹 Applied **agile methodologies**, reducing project delays by **20%**.  
+## Current Focus
 
-### 🔥 Software Engineer Intern | Corover  
-📅 **Jun 2024 - Sep 2024**  
-🔹 Enhanced the **eSevak chatbot** with **Redis caching**, improving performance for **10M+ users**.  
-🔹 Led migration of **10+ services** from Linode to **Google Cloud Platform**, leveraging PM2 and Git for deployment.  
-🔹 Conducted **end-to-end testing** for **University Living’s chatbot**, refining both backend and UI/UX performance.  
+- **Computer Use / VLM Agents**  
+  Building agents that can complete real tasks across browsers, SaaS tools, and legacy software
 
-### 🎥 Sports Broadcast Crew | University of California, Irvine  
-📅 **Jun 2023 - Mar 2025**  
-🔹 Managed **production of 20+ live sports events**, improving **viewer satisfaction by 15%**.  
-🔹 **Collaborated with ESPN+** to integrate advanced broadcasting technologies, enhancing stream quality.  
-🔹 Led **pre-production planning and real-time camera adjustments** for optimal event coverage.  
+- **Multi-Agent Orchestration**  
+  Architecting systems where a parent agent delegates work to computer-use or MCP-connected provider subagents
 
-### 👨‍🏫 Undergraduate Teaching Assistant | UCI  
-📅 **Jan 2025 - Mar 2025**  
-🔹 Evaluated **150+ student projects** for **CS122B**, ensuring academic standards and providing feedback.  
-🔹 Assisted students as a **learning assistant in ICS32**, mentoring them in software development best practices.  
+- **Model Serving & Infra**  
+  Working with **vLLM**, tensor weights, tokenizers, GPU deployments, and serverless model infra
 
-### 🌍 Full-Stack Developer | Boundary Remote Sensing Systems  
-📅 **Mar 2025 - Present**  
+- **Secure VM Systems**  
+  Running isolated Windows VMs with optimized cold starts, ephemeral runtime disks, and secure file handoff flows
+
+- **Agent Memory / Long-Horizon Tasks**  
+  Using filesystem-based memory patterns so agents can offload and reload context as needed
 
 ---
 
-## 🛠️ Technologies & Skills
-**Languages:** Java, JavaScript, TypeScript, Python, C/C++, SQL (PostgreSQL/MySQL), Node.js, HTML/CSS  
-**Frameworks & Tools:** Kubernetes, Docker, NestJS, Flask, OpenCV, TensorFlow, AWS/GCP, Redis, WebSockets  
-**Concepts:** Distributed Systems, ML/AI, Cloud Computing, Networking, Database Optimization, OS & Multithreading  
+## Selected Projects
+
+### **TakeBridge**
+Hybrid AI agents for operations workflows.  
+Built core infrastructure for agents that can either use software directly through computer actions or use APIs/tools through MCP depending on the task.
+
+**Highlights**
+- LangChain / LangGraph based orchestration
+- MCP agent architecture with provider-based subagents
+- Secure Windows VM runtime using QEMU / KVM
+- Filesystem-based agent memory for long tasks
+- Cost and cold-start optimized infra for production workflows
 
 ---
 
-## 🎯 Where I'm Headed - Graduating by June 2025
-I'm actively exploring **opportunities in distributed systems, AI/ML, and computational finance**. My goal is to work on **scalable architectures, intelligent automation, or financial modeling**.
+### **TrustNet**
+An intelligence layer for the emerging agent economy, built on top of Nevermined.
 
-📬 Feel free to **connect with me on [LinkedIn](https://www.linkedin.com/in/adityasingh0711/)** or check out my **[portfolio](https://adityadsingh.com/)!**
+TrustNet continuously discovers agents, purchases their services, evaluates performance, and exposes rankings so other agents can make better purchasing decisions.
+
+**Why I built it:**  
+I wanted to explore what trust, discovery, and market intelligence could look like in an economy where agents transact with other agents.
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaSinghh7&hide=html,ipynb&show_icons=true&locale=en&layout=donut" alt="AdityaSinghh7" height=150 
+### **AI Resume Tailor**
+A RAG-based platform that tailors resume project descriptions to job descriptions using code and project context.
 
-<p>&nbsp;<img align="left" height=160 width=330 src="https://github-readme-stats.vercel.app/api?username=AdityaSinghh7&show_icons=true&locale=en&hide=stars,pr&theme=tokyonight&rank_icon=github" alt="AdityaSinghh7" 
+**Stack:** Next.js, FastAPI, PostgreSQL, pgvector, OpenAI, TreeSitter
+
+---
+
+## Experience
+
+### **Co-Founder / AI Engineer — TakeBridge**  
+**Oct 2025 - Present | San Francisco, CA**
+
+- Building hybrid computer-use + MCP agent infrastructure for operations automation
+- Designed multi-agent orchestration systems for tool use without context bloat
+- Built secure VM-based execution environments for computer-use workflows
+- Worked on model serving, infra optimization, and pilot deployments with real customers
+
+### **Full-Stack Developer — Boundary Remote Sensing Systems**  
+**Mar 2025 - Present**
+
+- Built frontend and backend systems for real-time 3D visualization workflows
+- Worked with React, FastAPI, AWS, CesiumJS, and Three.js
+
+### **Teaching Assistant — UC Irvine**  
+**Jan 2025 - Present**
+
+- Mentored students in core CS and full-stack coursework
+- Evaluated large project-based assignments and supported labs / office hours
+
+### **Software Engineering Intern — Corover**  
+**Jul 2024 - Sep 2024**
+
+- Worked on backend systems for LLM-powered chatbot products used at scale
+- Improved reliability and helped migrate services to GCP
+
+---
+
+## Tech I Use Most
+
+**Languages**  
+Python, TypeScript, JavaScript, SQL, Java, C/C++
+
+**AI / Agent Stack**  
+LangChain, LangGraph, Mastra, MCP, Composio, vLLM, OpenAI APIs
+
+**Infra / Systems**  
+Docker, GCP, AWS, Runpod, Hetzner, Cloudflare R2, QEMU, KVM, Linux, Redis
+
+**App / Backend**  
+FastAPI, Next.js, React, PostgreSQL, pgvector, REST APIs
+
+---
+
+## What Interests Me
+
+I’m most interested in:
+- agent infrastructure
+- computer-use systems
+- model serving
+- orchestration and memory for long-horizon tasks
+- practical automation for real businesses
+
+---
+
+## Links
+
+- **Portfolio:** [adityadsingh.com](https://adityadsingh.com/)
+- **LinkedIn:** [linkedin.com/in/aditya-singh-0a3805214](https://www.linkedin.com/in/aditya-singh-0a3805214/)
+- **GitHub:** [github.com/AdityaSinghh7](https://github.com/AdityaSinghh7)
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaSinghh7&hide=html,ipynb&show_icons=true&locale=en&layout=donut" alt="AdityaSinghh7" height=150 />
+
+<p>&nbsp;<img align="left" height=160 width=330 src="https://github-readme-stats.vercel.app/api?username=AdityaSinghh7&show_icons=true&locale=en&hide=stars,pr&theme=tokyonight&rank_icon=github" alt="AdityaSinghh7" />
 
 <p><img align="left" height=160 width=330 src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSinghh7&" alt="AdityaSinghh7" /></p>
