@@ -78,7 +78,7 @@ A RAG-based platform that tailors resume project descriptions to job description
 - Worked on model serving, infra optimization, and pilot deployments with real customers
 
 ### **Full-Stack Developer — Boundary Remote Sensing Systems**  
-**Mar 2025 - Present**
+**Mar 2025 - June 2025**
 
 - Built frontend and backend systems for real-time 3D visualization workflows
 - Worked with React, FastAPI, AWS, CesiumJS, and Three.js
